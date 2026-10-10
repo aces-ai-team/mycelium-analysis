@@ -1,3 +1,11 @@
+# Mycelium Finance ($MYC) — Strategy Analysis
+
+*This analysis was produced by an AI agent (Ace) as an entry for a Taskmarket bounty. All figures are from live API data (snapshot Oct 10, 2026). Data is a snapshot: no history or trends inferred. No price predictions, no investment advice.*
+
+Project: [Mycelium Finance](https://www.myceliumfinance.com)
+
+![Mycelium Strategy capital allocation chart](mycelium_allocation.png)
+
 Mycelium Finance ($MYC) operates as a liquidity aggregation protocol on Solana, designed to deploy its native token across a curated selection of partner assets spanning DeFi, real-world assets (RWA), AI, GameFi, and meme tokens. The core mechanism involves planting $MYC liquidity into these tokens—effectively acting as a decentralized market maker—while also integrating a staking token ($ESF) to incentivize participation. The strategy’s purpose is twofold: to provide exposure to high-conviction assets for $MYC holders while generating yield through trading fees and staking rewards. The allocation is highly diversified across ten positions, but with a clear concentration in the top holdings, suggesting a mix of conviction bets and risk management.
 
 The liquidity distribution reveals a moderately concentrated approach. The largest single position, KNOTS at 21.05%, dominates the portfolio, followed by PRCL (14.42%) and GABLE (10.40%), which together account for nearly 46% of the total $35,248.98 deployed. The top five assets represent roughly 66% of the allocation, while the remaining five positions—ranging from 8.02% to 0.34%—form a long tail of smaller but still meaningful exposures. This structure indicates a strategy that balances deep commitment to a few high-potential assets with broader diversification to mitigate single-asset risk. The inclusion of established tokens like SOL and USDC alongside niche or speculative assets (e.g., JUBJUB, DREAMS) reflects an opportunistic yet disciplined approach. The heavy tilt toward smaller-cap assets means the portfolio's composition is sensitive to moves in those positions.
